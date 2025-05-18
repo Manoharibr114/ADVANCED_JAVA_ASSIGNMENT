@@ -32,3 +32,5 @@ prog3b2 o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/
 prog3b3 o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/Screenshot%202025-05-18%20151617.png
 
 prog3b4 o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/Screenshot%202025-05-18%20151854.png
+
+prog3b5 o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/Screenshot%202025-05-18%20152204.png
