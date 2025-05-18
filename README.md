@@ -56,3 +56,5 @@ prog5a o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/S
 prog5b o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/Screenshot%202025-05-18%20214225.png
 
 prog5c o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/Screenshot%202025-05-18%20214624.png
+
+prog5d o/p:https://github.com/Manoharibr114/ADVANCED_JAVA_ASSIGNMENT/blob/main/Screenshot%202025-05-18%20214959.png
